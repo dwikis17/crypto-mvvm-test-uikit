@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "36FF8F5D-BD6C-4B74-AE1A-2BFD4B35AB48"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B23F2C35-3F70-4EE0-A033-6505425E84A0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "crypto-mvvm/Models/CoinError.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "6"
+            endingLineNumber = "6"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "B23F2C35-3F70-4EE0-A033-6505425E84A0 - 1a210b83b0502fb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "crypto_mvvm.CoinError.CodingKeys.rawValue.getter : Swift.String"
+                  moduleName = "crypto-mvvm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dwiki/Developer/iOS/RandomProject/crypto-mvvm/crypto-mvvm/Models/CoinError.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "B23F2C35-3F70-4EE0-A033-6505425E84A0 - 1a210b83b05021c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "crypto_mvvm.CoinError.CodingKeys.rawValue.getter : Swift.String"
+                  moduleName = "crypto-mvvm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dwiki/Developer/iOS/RandomProject/crypto-mvvm/crypto-mvvm/Models/CoinError.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "72">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
